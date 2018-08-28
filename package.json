@@ -1,0 +1,20 @@
+{
+  "name": "minipack-implementation",
+  "version": "1.0.0",
+  "description": "implement the minipack and try to know how the bundlers work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangfung/minipack-implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangfung/minipack-implementation/issues"
+  },
+  "homepage": "https://github.com/liangfung/minipack-implementation#readme"
+}
