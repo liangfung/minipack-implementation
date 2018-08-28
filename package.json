@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/liangfung/minipack-implementation/issues"
   },
-  "homepage": "https://github.com/liangfung/minipack-implementation#readme"
+  "homepage": "https://github.com/liangfung/minipack-implementation#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
 }
